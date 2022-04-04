@@ -1,0 +1,19 @@
+total 29
+-rwxr-xr-x 1 Opti 3060 197121   32 Apr  4 10:31 0-hello_world
+-rwxr-xr-x 1 Opti 3060 197121   28 Apr  4 10:37 1-confused_smiley
+-rwxr-xr-x 1 Opti 3060 197121   28 Apr  4 10:39 2-hellofile
+-rwxr-xr-x 1 Opti 3060 197121   39 Apr  4 10:41 3-twofiles
+-rwxr-xr-x 1 Opti 3060 197121   33 Apr  4 10:42 4-lastlines
+-rwxr-xr-x 1 Opti 3060 197121   33 Apr  4 10:45 5-firstlines
+-rwxr-xr-x 1 Opti 3060 197121   28 Apr  4 10:49 6-third_line
+-rwxr-xr-x 1 Opti 3060 197121   75 Apr  4 10:51 7-file
+-rwxr-xr-x 1 Opti 3060 197121   35 Apr  4 11:02 8-cwd_state
+-rw-r--r-- 1 Opti 3060 197121  758 Apr  4 11:02 ls_cwd_content
+-rwxr-xr-x 1 Opti 3060 197121   33 Apr  4 11:04 9-duplicate_last_line
+-rw-r--r-- 1 Opti 3060 197121  801 Apr  4 11:05 iacta
+-rwxr-xr-x 1 Opti 3060 197121   48 Apr  4 11:10 10-no_more_js
+drwxr-xr-x 1 Opti 3060 197121    0 Apr  4 11:13 hi
+-rwxr-xr-x 1 Opti 3060 197121   47 Apr  4 11:52 11-directories
+-rw-r--r-- 1 Opti 3060 197121 1067 Apr  4 11:56 sorted
+-rwxr-xr-x 1 Opti 3060 197121   43 Apr  4 12:03 12-newest_files
+-rw-r--r-- 1 Opti 3060 197121    0 Apr  4 12:03 dir
